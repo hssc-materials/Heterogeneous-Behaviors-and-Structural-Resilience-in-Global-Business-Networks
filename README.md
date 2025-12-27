@@ -27,7 +27,7 @@ Our project reconstructs annual firm–firm similarity networks from global corp
 
 ### **Figure 2. Structural Backbone and Resilience Framework**
 <p align="center">
-  <img src="https://github.com/Janeyaoo/Heterogeneous-Behaviors-and-Structural-Resilience-in-Global-Business-Networks/blob/main/Fig2.png" width="70%">
+  <img src="https://github.com/hssc-materials/Heterogeneous-Behaviors-and-Structural-Resilience-in-Global-Business-Networks/blob/main/Fig2.png" width="70%">
 </p>
 
 ---
